@@ -9,3 +9,5 @@ PHP is 5.4.45. Later versions of PHP do not run on that server. I cannot upgrade
 Now you can do something about it. Download this plugin. Activate it. And goodbye nag message.
 
 In a later version, I'll add some code so that it will write the message to the error_log, and/or display the message once a week, and then go away.
+
+I have no plans to attempt to get this listed in the WordPress Plugin Repository.
